@@ -254,7 +254,7 @@
 
 /* -----------Mobile SCREEN------------- */
 
-@media only screen and (max-width: 350px){
+@media only screen and (max-width: 360px){
     /* ----------------menu------------ */
     .container{
         width: 100%;
