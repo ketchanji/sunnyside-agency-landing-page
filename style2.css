@@ -313,7 +313,7 @@
     }
     .middle{
         position: absolute;
-        left: -2rem;
+        left: -3rem;
         top: 3rem;
     }
     .container2 .text h1{
@@ -368,7 +368,7 @@
     }
     .middle2{
         position: absolute;
-        left: -2rem;
+        left: -3rem;
         top: 3rem;
     }
     
@@ -415,7 +415,7 @@
     .inside{
         width: 350px;
         position: absolute;
-        left: -2rem;
+        left: -3rem;
         top: 4rem;
     }
     .article .first{
